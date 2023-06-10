@@ -11,6 +11,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .class{
     half width:50% ;
@@ -30,5 +31,8 @@ section{
 }
 .top.banner{
     background-image: url(images/fff.jpg);
+}
+.dream-big{
+    background-image:url(images/header_bg.png) ;
 }
 
