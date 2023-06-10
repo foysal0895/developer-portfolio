@@ -9,13 +9,13 @@ h1{
     color: crimson;
 
 }
-section{
+.flixible container{
     display: flex;
     margin-bottom: 150px;
 }
 .class{
     half width:50% ;
-    padding: 5%;
+    padding: 25%;
 }
 .half width img{
     width: 10%
